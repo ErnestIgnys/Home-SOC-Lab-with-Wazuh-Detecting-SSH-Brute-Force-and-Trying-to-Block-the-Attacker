@@ -61,6 +61,20 @@ I’m aiming for a junior SOC analyst role. I believe the best way to learn is t
 
 ## Screenshots
 
+nmap_scan.png – port scanning
+
+hydra_attack.png – brute force attack from Kali.
+
+agent_wazuh_CentOS.png – agent online.
+
+attack_detection.png – alert in dashboard.
+
+ossec_rule_configuration.png (poprawiona nazwa) – firewall-drop configuration for rule 5758.
+
+iptables_check.png – empty iptables.
+
+ossec_error.png –  agent error.
+
 
 
 
